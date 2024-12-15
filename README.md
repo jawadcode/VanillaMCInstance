@@ -34,7 +34,8 @@ Or grab the installer from [https://github.com/PrismLauncher/PrismLauncher/relea
 
 ### Importing the Instance
 
-Open up PrismLauncher and click "Add Instance" in the top menu: ![PrismLauncher "Add Instance"](./assets/prismlauncher-add-instance.png)
+Open up PrismLauncher and sign in to your Microsoft account, then, click "Add
+Instance" in the top menu: ![PrismLauncher "Add Instance"](./assets/prismlauncher-add-instance.png)
 
 Click "Import": ![PrismLauncher "Import"](./assets/prismlauncher-import.png)
 
