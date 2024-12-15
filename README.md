@@ -2,6 +2,14 @@
 
 ## Instructions
 
+### Cloning the Repository
+
+Click on the "Code" button: ![GitHub "Code" Button](./assets/github-clone.png)
+
+Download the repository as a ZIP file: ![GitHub "Download Zip"](./assets/github-download.png).
+
+Extract the file to a place you can find later.
+
 ### Installing the JRE
 
 We will use Eclipse Temurin JRE 21.0.5, this can be installed in Windows Terminal
